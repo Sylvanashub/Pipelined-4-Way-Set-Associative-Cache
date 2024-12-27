@@ -34,7 +34,7 @@ For the pseudo-LRU policy, do not give invalid cachelines priority over whicheve
 
 ### Cache Timing
 
-![image-20241227115827756](https://raw.githubusercontent.com/Sylvanashub/sylvanashub.github.io/main/img/202412271202964.png)
+![image-20241227120313943](C:\Users\pinxuw\AppData\Roaming\Typora\typora-user-images\image-20241227120313943.png)
 
 ### Clean Misses
 
