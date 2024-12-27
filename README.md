@@ -26,7 +26,7 @@
 
 - Indexing scheme:
 
-  ![image-20241227115633493](C:\Users\pinxuw\AppData\Roaming\Typora\typora-user-images\image-20241227115633493.png)
+  ![image-20241227115633493](https://raw.githubusercontent.com/Sylvanashub/sylvanashub.github.io/main/img/202412271202962.png)
 
 For the pseudo-LRU policy, do not give invalid cachelines priority over whichever cacheline the PLRU logic indicates. That is, the cache must always use PLRU to decide which way to populate/invalidate.
 
@@ -34,8 +34,8 @@ For the pseudo-LRU policy, do not give invalid cachelines priority over whicheve
 
 ### Cache Timing
 
-![image-20241227115827756](C:\Users\pinxuw\AppData\Roaming\Typora\typora-user-images\image-20241227115827756.png)
+![image-20241227115827756](https://raw.githubusercontent.com/Sylvanashub/sylvanashub.github.io/main/img/202412271202964.png)
 
 ### Clean Misses
 
-![image-20241227115904908](C:\Users\pinxuw\AppData\Roaming\Typora\typora-user-images\image-20241227115904908.png)
+![image-20241227115904908](https://raw.githubusercontent.com/Sylvanashub/sylvanashub.github.io/main/img/202412271202965.png)
